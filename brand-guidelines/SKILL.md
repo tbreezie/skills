@@ -4,7 +4,7 @@ description: Applies Anthropic's official brand colors and typography to any sor
 license: Complete terms in LICENSE.txt
 ---
 
-# Anthropic Brand Styling
+# GOAP
 
 ## Overview
 
